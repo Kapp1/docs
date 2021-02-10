@@ -4,17 +4,17 @@
 			{
 				"name": "node",
 				"tag": "14-alpine",
-				"digest": "e1b5ccf61848b5e87b11c4785d058cd7982a29cffb36a449906a0de6d891d24a"
+				"digest": "d36152974d98ad2f340c4ac72228bc8665cb96dcfef97120f735290406a3fbce"
 			},
 			{
 				"name": "node",
 				"tag": "14-alpine",
-				"digest": "e1b5ccf61848b5e87b11c4785d058cd7982a29cffb36a449906a0de6d891d24a"
+				"digest": "d36152974d98ad2f340c4ac72228bc8665cb96dcfef97120f735290406a3fbce"
 			},
 			{
 				"name": "node",
 				"tag": "14-alpine",
-				"digest": "e1b5ccf61848b5e87b11c4785d058cd7982a29cffb36a449906a0de6d891d24a"
+				"digest": "d36152974d98ad2f340c4ac72228bc8665cb96dcfef97120f735290406a3fbce"
 			}
 		]
 	}
